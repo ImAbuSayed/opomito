@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Opomito
+
+This log tracks the cryptographic history and versioning for the song **Opomito** (opomito).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:34:48.860251 | `v1` | `294a6a8ff0f3f53eaa4d868eb64bbe21066e577d2efb805688730ad81b8392a2` | `a23e9bf3ead547ebaa7d344e765a8e277595fc4db7d06835c7b301c583d896ce` | `2026-05-08_opomito-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
